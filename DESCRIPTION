@@ -1,0 +1,19 @@
+Package: test4
+Title: Tools to Manipulate, Collate, and Analyze BHS Data from
+    Idaho and Wyoming
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Katey",
+           family = "Huggler",
+           role = c("aut", "cre"),
+           email = "khuggler@uidaho.edu")
+Description: This package is intended to aid in
+    manipulating, collating, and analyzing animal and vegetation data
+    collected for bighorn sheep in Idaho and Wyoming
+License: None
+Imports: 
+    survival
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
